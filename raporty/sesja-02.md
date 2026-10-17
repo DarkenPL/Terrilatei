@@ -119,7 +119,7 @@ Pula: **Tp +4Vr**, czyli Typowy, z 4 uznaniowymi (9 V, 5 X, 4 Vr). Prowadziła K
 Leon prześwietlił Ksenię i plany odbudowy: plan to wydmuszka, a operacja Kseni najpewniej jest jej prywatną samowolką.
 
 - Sama Ksenia w danych wygląda na nieważną. To dziwne: wszczepy zastępujące organy kosztują i wymagają stałej opieki. Nie są z czarnego rynku i nie są podrobione.
-- Wizualizacje odbudowy mają pięć lat i nic się od tego czasu nie ruszyło. Najwięcej wykupionego terenu jest przy zachodniej bramie (parkingi, dojazd do term).
+- Wizualizacje odbudowy mają pięć lat i nic się od tego czasu nie ruszyło. Aurum wykupiło tereny na placu odbudowy i bliżej wschodniego wjazdu. Termy nie należą do Aurum.
 - MG: to projekt typu „szefowi przyśniły się baseny”, a zespół potem dopilnował, żeby zapomniał.
 - Średnia temperatura w okolicy rośnie, zimy są krótsze. Można by to przypisać termom, tyle że termy prawie nie działają.
 - Hipoteza: młoda, wściekła osoba, której sypie się kariera, zobaczyła te wskaźniki i przyjechała ze sprzętem, żeby sama wykryć źródło i zgarnąć chwałę. Ktoś nad nią może o tym wiedzieć.
