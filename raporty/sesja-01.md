@@ -11,7 +11,7 @@ Czego się dowiedzieliśmy:
 - Ida żyje i ukrywa się w podziemiach, ostatnio pod termami. Chce „odkupić grzechy swojej matki”.
 - Pożar wygląda na przygotowany: matka i córka wyszły ubrane, jakby na to czekały. Wiesława nie zgłosiła szkody, choć bar był ubezpieczony.
 - Xavier nie ma związku z pożarem. Nosił Idzie jedzenie, a teraz leży w filii z przebitym płucem i śladem anomalii.
-- Ksenia Radlik z Aurum jest na miejscu i naciska na naprawę pomnika z odciętą ręką.
+- Ksenia Radlic z Aurum jest na miejscu i naciska na naprawę pomnika z odciętą ręką.
 - Młodzież z grupy fanów Idy chce szukać jej w tunelach na własną rękę; Zawiruch zabezpiecza wejścia.
 
 ## Drużyna
@@ -23,7 +23,7 @@ Oficjalnie jesteśmy ekipą towarzystwa ubezpieczeniowego; przyjeżdżamy, kiedy
 | Irse | Infiltrator (drobna, w kurtce z kapturem; ma sprzęt komputerowy) | Rozbroiła napastnika, złamała Xaviera w przesłuchaniu, przeglądała jego telefon |
 | Kate | Ratownik (w mundurze) | Rozgoniła tłum, prowadziła pytania, rozpoznała „ustawioną” ucieczkę z pożaru |
 | Luna | Medyczka, z psem wyczuwającym anomalie (roboczo: Fafik) | Stabilizacja Xaviera, przekonała Zawirucha do zamknięcia wejść do tuneli |
-| Finka | Likwidator Szkód (postać męska) | Przejrzał dokumenty ubezpieczeniowe i maile Kseni Radlik, wynegocjował BHP |
+| Finka | Likwidator Szkód (postać męska) | Przejrzał dokumenty ubezpieczeniowe i maile Kseni Radlic, wynegocjował BHP |
 
 MG: Darken. Azality nikt nie wziął.
 
@@ -177,14 +177,14 @@ Pula: **Tr +2Vr**, czyli Trudny, z 2 uznaniowymi (6 V, 8 X, 2 Vr). Prowadziła K
 
 **Dokumenty.** Bar był ubezpieczony, ale szkody nie zgłoszono. „Gulasz u Mamy” był sercem targowiska: Wiesława wydawała posiłki biednym i dlatego nie przeniosła się gdzie indziej; być może tak poznała Xaviera.
 
-**Ksenia Radlik.** To nasza osoba kontaktowa od projektu rewitalizacji terenu, pomysłu kogoś wysoko, dotąd uważanego za głupi. W korporacyjnych mailach żąda natychmiastowej naprawy pomnika z odciętą ręką i sugeruje, że to nasz problem. Jest w Szemrotach, pewnie w najlepszym hotelu; mamy jej maila. Skoro przyjechała osobiście, sprawa jest poważna.
+**Ksenia Radlic.** To nasza osoba kontaktowa od projektu rewitalizacji terenu, pomysłu kogoś wysoko, dotąd uważanego za głupi. W korporacyjnych mailach żąda natychmiastowej naprawy pomnika z odciętą ręką i sugeruje, że to nasz problem. Jest w Szemrotach, pewnie w najlepszym hotelu; mamy jej maila. Skoro przyjechała osobiście, sprawa jest poważna.
 
 ## Otwarte wątki
 
 Na koniec sesji Kate wskazała trzy główne tropy; do przegadania na czacie przed kolejnym spotkaniem.
 
 - [ ] Obejrzeć pogorzelisko „Gulaszu u Mamy” i ustalić źródło ognia.
-- [ ] Porozmawiać z Ksenią Radlik o rewitalizacji i pomniku.
+- [ ] Porozmawiać z Ksenią Radlic o rewitalizacji i pomniku.
 - [ ] Zejść pod termy, gdzie ostatnio widziano Idę.
 - [ ] Zdecydować, czy Xavier zostaje w filii, czy jedzie do przychodni.
 - [ ] Porozmawiać z Wiesławą: czemu nie zgłosiła szkody i o jakie „grzechy matki” chodzi.

@@ -4,7 +4,7 @@ Stan na 16.10.2026, koniec [sesji 3](raporty/sesja-03.md). Szczegóły konflikt�
 
 ## W skrócie
 
-Przyjechałyśmy do Szemrot po anonimowym cynku, że pomnik Sowińskiego chodzi nocą do spalonego baru „Gulasz u Mamy”. Po trzech sesjach wiemy, że bar podpalono celowo, żeby zasypać zejście do podziemi, a Ida, córka właścicielki, żyje i próbuje rozebrać mur pod pomnikiem i „Gulaszem”. Według niej za murem jest dowód, że jej matka zamurowała ludzi. Za każdym razem, gdy Ida próbuje się przebić, przychodzi Sowiński, a ubytki wypełnia twardy „brąz”.
+Jesteśmy lokalną komórką Terriletei, agencji, która ubezpiecza i odbudowuje tereny po wojnie i zajmuje się anomaliami „niższego sortu”; pieniądze ma od Aurum. Przyjechałyśmy do Szemrot po anonimowym cynku, że pomnik Sowińskiego chodzi nocą do spalonego baru „Gulasz u Mamy”. Po trzech sesjach wiemy, że bar podpalono celowo, żeby zasypać zejście do podziemi, a Ida, córka właścicielki, żyje i próbuje rozebrać mur pod pomnikiem i „Gulaszem”. Według niej za murem jest dowód, że jej matka zamurowała ludzi. Za każdym razem, gdy Ida próbuje się przebić, przychodzi Sowiński, a ubytki wypełnia twardy „brąz”.
 
 Sesja 3 skończyła się przy tym murze: jesteśmy pod ziemią z Idą i przestraszonym dzieciakiem z młodzieży, Irse nie ma sprzętu, a Fafik uciekł w panice przed czymś, czego nikt inny nie usłyszał.
 
@@ -89,7 +89,7 @@ Przerywana linia to droga przez targowisko: 5 minut, w tłumie 10. Termy są poz
 | Tosia | Z młodzieży | Poszła z Bartkiem odzyskać puszkę |
 | Bartek | Ochroniarz term, „jedną nogą” z młodzieży | Z Tosią |
 | dzieciak z młodzieży | Ok. 13 lat | Z nami pod ziemią, w ciężkim szoku |
-| Centrala | Nasza szefowa | 3 dni na zamknięcie sprawy, kontener medyczny, zgoda na hakowanie korpo |
+| Centrala | Centrala Terriletei, nasza szefowa | 3 dni na zamknięcie sprawy, kontener medyczny, zgoda na hakowanie korpo |
 
 ## Stan drużyny
 
