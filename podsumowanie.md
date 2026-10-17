@@ -26,7 +26,7 @@ Zegar: Centrala dała nam 3 dni od sesji 2, czyli realnie ok. 2,5 dnia.
 | 8 | Tablica poległych | Nazwiska cywilów, którzy zginęli przy zalaniu Noktian (konflikt zero). |
 | 9 | Zakład Kamiondy | — |
 
-Przerywana linia to droga przez targowisko: 5 minut, w tłumie 10. Termy są poza mapą, kilka minut autem w stronę zachodniej bramy; przy zachodniej bramie Aurum wykupiło najwięcej terenu (parkingi, dojazd do term).
+Przerywana linia to droga przez targowisko: 5 minut, w tłumie 10. Termy są poza mapą, kilka minut autem w stronę zachodniej bramy, i nie należą do Aurum. Aurum wykupiło tereny na placu odbudowy i bliżej wschodniego wjazdu.
 
 ## Co ustaliłyśmy
 
