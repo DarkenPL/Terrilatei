@@ -1,0 +1,23 @@
+name: Synchronizacja raportów
+
+# Pilnuje, żeby raporty z sesji zmieniały się tylko przez synchronizację
+# z Google Docs (narzedzia/synchronizuj_docs.py). Ręczna zmiana raportu
+# daje czerwony krzyżyk przy commicie.
+on:
+  push:
+  pull_request:
+
+jobs:
+  sprawdz:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Testy skryptu synchronizacji
+        run: python3 narzedzia/test_synchronizuj_docs.py
+      - name: Raporty zgodne ze stanem synchronizacji
+        run: python3 narzedzia/synchronizuj_docs.py sprawdz
