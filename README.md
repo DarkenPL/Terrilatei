@@ -22,6 +22,8 @@ Najpilniejsze:
 
 **[Pełne podsumowanie sesji 1–3: ustalenia, ludzie, stan drużyny, otwarte wątki](podsumowanie.md)**
 
+**[Uściślenia o świecie: Sojusz Letejski, Przelotyk, Aurum, Bezpieczna Jutrzenka](swiat.md)**
+
 ### Raporty z sesji
 
 - [Sesja 1](raporty/sesja-01.md) — 25.09.2026: samosąd pod pomnikiem, przesłuchanie Xaviera, nagrania z kamer

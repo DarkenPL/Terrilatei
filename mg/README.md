@@ -6,4 +6,4 @@ Raporty z sesji są w [`raporty/`](../raporty/). Pliki w tym folderze edytuje si
 
 ## Zawartość
 
-- [Ksenia Radlic](ksenia-radlic.md) — przedstawicielka Aurum: kim jest, co robi w Szemrotach, cel, zegar, DP/MP, dźwignie, drony
+- [Ksenia Radlic](ksenia-radlic.md) — wysłanniczka Bezpiecznej Jutrzenki: kim jest, pochodzenie (sekret), cel, zegar, DP/MP, dźwignie, drony
