@@ -36,4 +36,4 @@ python3 narzedzia/synchronizuj_docs.py sprawdz
 
 ## Co edytujesz normalnie w repo
 
-`README.md` (opis „Gdzie jesteśmy”, lista raportów), `podsumowanie.md`, `obrazy/`, `narzedzia/`. Tego skrypt synchronizacji nie dotyka. Inne karty dokumentu (Ogłoszenie, Wprowadzenie do świata, Miejsce i ludzie, Postacie) nie są synchronizowane.
+`README.md` (opis „Gdzie jesteśmy”, lista raportów), `podsumowanie.md`, `obrazy/`, `narzedzia/`, `mg/` (materiały tylko dla MG, ze spoilerami; nie przenoś ich treści do README ani `podsumowanie.md`, które czytają graczki). Tego skrypt synchronizacji nie dotyka. Inne karty dokumentu (Ogłoszenie, Wprowadzenie do świata, Miejsce i ludzie, Postacie) nie są synchronizowane.

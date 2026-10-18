@@ -28,6 +28,10 @@ Najpilniejsze:
 - [Sesja 2](raporty/sesja-02.md) — 2.10.2026: Ksenia Radlic, zgliszcza „Gulaszu”, pomnik, telefon z Centrali, stream Idy
 - [Sesja 3](raporty/sesja-03.md) — 16.10.2026: podziemia pod termami, drony, Ida i mur pod „Gulaszem”
 
+## Materiały MG
+
+Folder [`mg/`](mg/) jest **tylko dla MG** i zawiera spoilery. Graczki, nie zaglądajcie.
+
 ## Raporty a Google Docs
 
 **Raporty z sesji powstają i są poprawiane tylko w Google Docs**, w dokumencie „Spalony Gulasz w Szemrotach”, po jednej karcie „Raport sesja RRRRMMDD” na sesję. Repo jest kopią z historią. Plików `raporty/sesja-NN.md` nikt nie poprawia ręcznie; zmienia je tylko `narzedzia/synchronizuj_docs.py`. README, `podsumowanie.md` i obrazy edytuje się w repo normalnie. Metoda pochodzi z repo Moretti.
