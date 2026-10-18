@@ -6,7 +6,7 @@ Kilka rzeczy, które po rozmowie z autorem świata warto mieć poukładane. Czę
 
 **Szemroty leżą na Przelotyku**, jednej z prowincji **Sojuszu Letejskiego**. Sojusz to największa stabilna federacja na Astorii: prowincje i kraje połączone po Pęknięciu Rzeczywistości. Zajmuje teren mniej więcej 70% naszej Unii Europejskiej. Każda prowincja ma własne wartości i swój sposób rządzenia.
 
-Na Przelotyku mieszkają różne kultury, z przewagą drakolitów (genetycznie ulepszonych indywidualistów, dla których ciągła przemiana ciała jest niemal świętym obowiązkiem, a umowy i miejscowe zasady traktują bardzo poważnie). Ludzie są tolerancyjni i indywidualistyczni, a z zagrożeniami radzą sobie luźne agencje, a nie jedna silna władza. W górach są ukryte enklawy noktiańskie.
+Na Przelotyku mieszkają różne kultury, z przewagą drakolitów. Ludzie są tolerancyjni i indywidualistyczni, a z zagrożeniami radzą sobie luźne agencje, a nie jedna silna władza. W górach są ukryte enklawy noktiańskie.
 
 ## Aurum to prowincja, nie firma
 
