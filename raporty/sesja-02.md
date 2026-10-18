@@ -59,7 +59,7 @@ Pula: **Tr +4Vr**, czyli Trudny, z 4 uznaniowymi (6 V, 8 X, 4 Vr). W trakcie dos
 | 2 | V | Chusteczka, w którą kaszlała |
 | — | +Vr | Bonus od MG na zachętę |
 | 3 | V | Ksenia ma wszczepy zastępujące organy |
-| 4 | Vr | Wszczepy szwankują: front świetny, „back-end” się sypie; Ksenia nic nie wie |
+| 4 | Vr | Wszczepy szwankują: front świetny, „back-end” się sypie; Ksenia nie wiedziała, że Irse ją skanuje |
 
 ## Zgliszcza „Gulaszu u Mamy”
 
