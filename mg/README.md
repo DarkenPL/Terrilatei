@@ -7,3 +7,4 @@ Raporty z sesji są w [`raporty/`](../raporty/). Pliki w tym folderze edytuje si
 ## Zawartość
 
 - [Ksenia Radlic](ksenia-radlic.md) — wysłanniczka Bezpiecznej Jutrzenki: kim jest, pochodzenie (sekret), cel, zegar, DP/MP, dźwignie, drony
+- [Aktorzy sesji 3](aktorzy/) — karty Aktorów (Agenda, Zewnętrze, Natura, Możliwości): Ida, Sowiński, drony Jutrzenki, młodzież, Tosia, Bartek, dzieciak, menedżer term
